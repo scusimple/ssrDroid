@@ -16,9 +16,9 @@
 	branch = 0.9.4
 [submodule "rust/overtls"]
 	path = rust/overtls
-	url = https://github.com/ShadowsocksR-Live/overtls.git
-	branch = v0.2.6
+	url = https://github.com/scusimple/overtls.git
+	branch = v0.2.6_fix
 [submodule "rust/tun2proxy"]
 	path = rust/tun2proxy
 	url = https://github.com/blechschmidt/tun2proxy.git
-	branch = v0.1.10
+	branch = v0.1.11
