@@ -21,4 +21,4 @@
 [submodule "rust/tun2proxy"]
 	path = rust/tun2proxy
 	url = https://github.com/blechschmidt/tun2proxy.git
-	branch = v0.1.11
+	branch = v0.1.12
